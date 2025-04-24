@@ -1,2 +1,2 @@
 # SCT_SD_2
-2st code for skillcraft internship which is random number generator
+2nd code for skillcraft internship which is random number generator
